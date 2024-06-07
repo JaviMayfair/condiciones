@@ -1,0 +1,10 @@
+
+.titulo , .mensaje{
+    text-align: center;
+}
+
+
+.botones{
+    display: flex;
+    justify-content: center;
+}
